@@ -1,8 +1,7 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Esse encarte tecnológico ensina brevemente quais os equipamentos indispensáveis que você deverá adquirir para uma pesca produtiva e segura.
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 
